@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "aiofiles>=25.1.0",
+    "aiosqlite>=0.22.1",
     "english-words>=2.0.2",
 ]
